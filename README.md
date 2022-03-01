@@ -1,6 +1,5 @@
-# MyProjects
 # 常用工具类
-# 在settings.gradle加入
+## 在settings.gradle加入
 ```Java
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
