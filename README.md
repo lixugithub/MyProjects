@@ -1,7 +1,7 @@
 # MyProjects
 # 常用工具类
 # 在settings.gradle加入
-dependencyResolutionManagement {
+dependencyResolutionManagement {\n
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
